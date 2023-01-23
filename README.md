@@ -5,8 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-alves-168201251/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitxr.10)
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitxr10&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitxr10&layout=compact&theme=tokyonight)](https://github.com/vitxr10/github-readme-stats)
+<div>
+  <a href="https://github.com/vitxr10">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=vitxr10&show_icons=true&theme=tokyonight">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitxr10&layout=compact&theme=tokyonight">  
+</div>
 
 ## Tecnologias que eu uso no meu dia:
 
