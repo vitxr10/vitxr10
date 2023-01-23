@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/vitxr10">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=vitxr10&show_icons=true&theme=tokyonight">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitxr10&layout=compact&theme=tokyonight">  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitxr10&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitxr10&layout=compact&theme=tokyonight">  
 </div>
 
 ## Tecnologias que eu uso no meu dia:
