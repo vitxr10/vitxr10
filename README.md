@@ -3,7 +3,6 @@
 [![Blog](https://img.shields.io/website?label=VitorSantos.com&style=for-the-badge&url=https://vitxr10.github.io/portfolio/)](https://vitxr10.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorsalves0812@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorsantosalves-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitxr.10)
 
 <div>
   <a href="https://github.com/vitxr10">
