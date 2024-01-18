@@ -12,7 +12,7 @@
 <div style="display: inline-block">
 • Linguagens de programação: C#, Javascript<br>
 • Frameworks: .NET, ASP.NET Core, Entity Framework, React<br>
-• Bancos de dados: SQL Server, MongoDB
+• Outras habilidades: SQL Server, MongoDB, Postman, Azure DevOps, CI/CD
 </div>
 
 ## Projetos destacados:
