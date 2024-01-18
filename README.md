@@ -1,9 +1,8 @@
-### Olá! Eu sou o Vitor Santos.
+# Olá! Eu sou o Vitor Santos.
+<div style="display: inline-block"></div>
 
 ## Sobre mim
-<div style="display: inline-block">
-
-</div>
+<div style="display: inline-block"></div>
 
 ## Tecnologias que eu uso no meu dia:
 
