@@ -1,12 +1,7 @@
-### Olá! Eu sou o Vitor Santos 👋
+### Olá! Eu sou o Vitor Santos.
 
-[![Blog](https://img.shields.io/website?label=VitorSantos.com&style=for-the-badge&url=https://vitxr10.github.io/portfolio/)](https://vitxr10.github.io/portfolio/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorsantosalves-dev/)
-
-<div>
-  <a href="https://github.com/vitxr10">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=vitxr10&show_icons=true&theme=tokyonight">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitxr10&layout=compact&theme=tokyonight">  
+<div style="display: inline-block">
+  Sobre mim
 </div>
 
 ## Tecnologias que eu uso no meu dia:
