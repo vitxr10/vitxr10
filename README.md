@@ -17,6 +17,6 @@
 
 ## Projetos destacados:
 <div style="display: inline-block">
-  <a href="https://github.com/vitxr10/Vagas.doc">Vagas.doc</a>
-  <a href="https://github.com/vitxr10/devfreela-api">DevFreela</a>
+  <a href="https://github.com/vitxr10/Vagas.doc">Vagas.doc</a>: Site para organizar candidaturas de emprego
+  <a href="https://github.com/vitxr10/devfreela-api">DevFreela</a>: API de uma plataforma de freelance
 </div>
