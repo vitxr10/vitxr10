@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vitor Santos.
 
 <div style="display: inline-block">
-  Sobre mim
+## Sobre mim
 </div>
 
 ## Tecnologias que eu uso no meu dia:
