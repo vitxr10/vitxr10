@@ -8,7 +8,7 @@
 
 ## Habilidades:
 <div style="display: inline-block">
-<p>• Linguagens de programação: C#, Javascript</p>
-<p>• Frameworks: .NET, ASP.NET Core, Entity Framework, React</p>
-<p>• Bancos de dados: SQL Server, MongoDB</p>
+• Linguagens de programação: C#, Javascript<br>
+• Frameworks: .NET, ASP.NET Core, Entity Framework, React<br>
+• Bancos de dados: SQL Server, MongoDB
 </div>
