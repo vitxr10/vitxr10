@@ -5,16 +5,18 @@
 <div style="display: inline-block">
   <p>Sou desenvolvedor .NET com experiência prática em C# e um sólido entendimento das tecnologias Microsoft. Gosto de criar soluções e estou sempre desenvolvendo projetos pessoais, a fim de evoluir tecnicamente.</p>
   <ul>
-  <li>💻 Atualmente estou trabalhando na Vertem</li>
-  <li>📚 Estou estudando sobre REST APIs e Clean Architecture</li>
+    <li>💻 Atualmente estou trabalhando na Vertem</li>
+    <li>📚 Estou estudando sobre REST APIs e Clean Architecture</li>
   </ul>
 </div>
 
 ## Habilidades:
 <div style="display: inline-block">
-• Linguagens de programação: C#, Javascript<br>
-• Frameworks: .NET, ASP.NET Core, Entity Framework, React<br>
-• Outras habilidades: SQL Server, MongoDB, Postman, Azure DevOps, CI/CD
+  <ul>
+    <li>Linguagens de programação: C#, Javascript</li>
+    <li>Frameworks: .NET, ASP.NET Core, Entity Framework, React</li>
+    <li>Outras habilidades: SQL Server, MongoDB, Postman, Azure DevOps, CI/CD</li>
+  </ul>
 </div>
 
 ## Projetos destacados:
