@@ -29,5 +29,7 @@
 
 ## Contato:
 <div style="display: inline-block">
-  <a href="https://www.linkedin.com/in/vitor-santos-alves/">LinkedIn</a>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/vitor-santos-alves/">LinkedIn</a></li>
+  </ul>
 </div>
