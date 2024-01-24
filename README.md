@@ -1,4 +1,4 @@
-# Olá, Eu sou Vitor Santos.
+# Olá, eu sou Vitor Santos.
 <div style="display: inline-block"></div>
 
 ## Sobre mim
