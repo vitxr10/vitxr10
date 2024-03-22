@@ -14,7 +14,7 @@
 <div style="display: inline-block">
   <ul>
     <li>Linguagens de programação: C#, JavaScript</li>
-    <li>Frameworks: .NET, ASP.NET Core, Entity Framework, React</li>
+    <li>Frameworks: .NET, ASP.NET Core, React</li>
     <li>Outras habilidades: SQL Server, MongoDB, Postman, Swagger, Azure DevOps, CI/CD</li>
   </ul>
 </div>
