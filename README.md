@@ -5,7 +5,7 @@
 <div style="display: inline-block">
   <p>Sou desenvolvedor .NET com experiência prática em C# e um sólido entendimento das tecnologias Microsoft. Gosto de criar soluções e estou sempre desenvolvendo projetos pessoais, a fim de evoluir tecnicamente.</p>
   <ul>
-    <li>💻 Atualmente estou trabalhando na Vertem</li>
+    <li>💻 Atualmente estou trabalhando no Itaú Unibanco</li>
     <li>📚 Estou estudando sobre REST APIs e Clean Architecture</li>
   </ul>
 </div>
