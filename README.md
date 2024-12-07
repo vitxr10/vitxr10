@@ -5,7 +5,7 @@
 <div style="display: inline-block">
   <p>Sou desenvolvedor backend com 1+ de experiência trabalhando com as stacks de C# e Java.</p>
   <ul>
-    <li>💻 Atualmente estou trabalhando no Itaú Unibanco</li>
+    <li>💻 Atualmente trabalho no Itaú Unibanco</li>
     <li>📚 Estou estudando para obter a certificação AWS Cloud Practitioner</li>
   </ul>
 </div>
