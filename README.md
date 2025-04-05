@@ -2,14 +2,12 @@
  <div style="display: inline-block"></div>
  
  ## Sobre mim:
- <div style="display: inline-block">
-   <ul>
-     <li style="list-style-type: none;">☑️ Engenheiro de Software @Itaú Unibanco</li>
-     <li style="list-style-type: none;">☑️ 1+ ano de experiência em desenvolvimento</li>
-     <li style="list-style-type: none;">☑️ Graduando em Sistemas de Informaçao 7/8</li>
-     <li style="list-style-type: none;">☑️ Estudando para obter a certificaçao AWS Cloud Practitioner</li>
-   </ul>
- </div>
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li>☑️ Engenheiro de Software @Itaú Unibanco</li>
+  <li>☑️ 1+ ano de experiência em desenvolvimento</li>
+  <li>☑️ Graduando em Sistemas de Informaçao 7/8</li>
+  <li>☑️ Estudando para obter a certificaçao AWS Cloud Practitioner</li>
+</ul>
  
  ## Habilidades:
  <div style="display: inline-block">
