@@ -1,29 +1,16 @@
-# Olá, eu sou Vitor Santos.
-<div style="display: inline-block"></div>
+<h1>Opa, beleza? 👋</h1>
 
-## Sobre mim
-<div style="display: inline-block">
-  <p>Sou desenvolvedor backend com 1+ de experiência trabalhando com as stacks de C# e Java.</p>
-  <ul>
-    <li>💻 Atualmente trabalho no Itaú Unibanco</li>
-    <li>📚 Estou estudando para obter a certificação AWS Cloud Practitioner</li>
-  </ul>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-santos-alves/)](https://www.linkedin.com/in/vitor-santos-alves/)
 
-## Habilidades:
-<div style="display: inline-block">
-  <ul>
-    <li>Linguagens de programação: C#, Java</li>
-    <li>Frameworks: .NET, ASP.NET Core, Spring Boot</li>
-    <li>Outras habilidades: SQL Server, MongoDB, AWS, Azure</li>
-  </ul>
-</div>
+## Eu sou Vitor Santos
+(Java | Spring Boot | AWS | SQL | C# | .NET | Backend | IA) 🚀
+- 👩‍💻 Engenheiro de Software @[Itaú Unibanco](https://www.itau.com.br/)
+- 🧠 1+ ano de experiência em desenvolvimento
+- 🎓 Graduando em Sistemas de Informaçao 7/8
+- ☁️ Estudando para obter a certificaçao AWS Cloud Practitioner
 
-## Contato:
-<div style="display: inline-block">
-  <ul>
-    <li><a href="https://www.linkedin.com/in/vitor-santos-alves/">LinkedIn</a></li>
-  </ul>
-</div>
-
-
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
