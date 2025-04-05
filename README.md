@@ -8,9 +8,3 @@
 - 🧠 1+ ano de experiência em desenvolvimento
 - 🎓 Graduando em Sistemas de Informaçao 7/8
 - ☁️ Estudando para obter a certificaçao AWS Cloud Practitioner
-
-<div align="left">
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitxr10&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-  
- </div>
