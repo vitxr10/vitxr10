@@ -3,10 +3,12 @@
  
  ## Sobre mim:
 
-☑️ Engenheiro de Software @Itaú Unibanco <br>
-☑️ 1+ ano de experiência em desenvolvimento <br>
-☑️ Graduando em Sistemas de Informaçao 7/8 <br>
-☑️ Estudando para obter a certificaçao AWS Cloud Practitioner
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li>☑️ Engenheiro de Software @Itaú Unibanco</li>
+  <li>☑️ 1+ ano de experiência em desenvolvimento</li>
+  <li>☑️ Graduando em Sistemas de Informaçao 7/8</li>
+  <li>☑️ Estudando para obter a certificaçao AWS Cloud Practitioner</li>
+</ul>
 
  
  ## Habilidades:
