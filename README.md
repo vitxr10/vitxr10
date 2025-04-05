@@ -3,20 +3,17 @@
  
  ## Sobre mim
  <div style="display: inline-block">
-   <p>Sou desenvolvedor backend com 1+ de experiência trabalhando com as stacks de C# e Java.</p>
    <ul>
-     <li>💻 Atualmente trabalho no Itaú Unibanco</li>
-     <li>📚 Estou estudando para obter a certificação AWS Cloud Practitioner</li>
+     <li>Engenheiro de Software @Itaú Unibanco</li>
+     <li>1+ ano de experiência em desenvolvimento</li>
+     <li>Graduando em Sistemas de Informaçao 7/8</li>
+     <li>Estudando para obter a certificaçao AWS Cloud Practitioner</li>
    </ul>
  </div>
  
  ## Habilidades:
  <div style="display: inline-block">
-   <ul>
-     <li>Linguagens de programação: C#, Java</li>
-     <li>Frameworks: .NET, ASP.NET Core, Spring Boot</li>
-     <li>Outras habilidades: SQL Server, MongoDB, AWS, Azure</li>
-   </ul>
+(Java | Spring Boot | AWS | SQL | C# | .NET | Backend | IA)
  </div>
  
  ## Contato:
