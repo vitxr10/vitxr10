@@ -7,7 +7,7 @@
   <li>☑️ Engenheiro de Software @Itaú Unibanco</li>
   <li>☑️ 2 anos de experiência em desenvolvimento</li>
   <li>☑️ Graduando em Sistemas de Informação 7/8</li>
-  <li>☑️ Estudando para obter a certificação AWS Cloud Practitioner</li>
+  <li>☑️ AWS Certified Cloud Practitioner</li>
 </ul>
 
  
