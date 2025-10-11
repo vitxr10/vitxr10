@@ -13,7 +13,7 @@
  
  ## Habilidades:
  <div style="display: inline-block">
-(Java | C# | Python | AWS | Terraform | AI)
+(Java | C# | Python | AWS | Terraform | Docker | AI)
  </div>
  
  ## Contato:
