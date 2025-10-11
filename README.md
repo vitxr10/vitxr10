@@ -13,7 +13,7 @@
  
  ## Habilidades:
  <div style="display: inline-block">
-(Java | Spring Boot | AWS | SQL | C# | .NET | Backend | IA)
+(Java | C# | Python | AWS | Terraform | AI)
  </div>
  
  ## Contato:
