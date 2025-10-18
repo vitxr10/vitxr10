@@ -3,12 +3,12 @@
  
  ## Sobre mim:
 
-<ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li>☑️ Engenheiro de Software @Itaú Unibanco</li>
-  <li>☑️ 2 anos de experiência em desenvolvimento</li>
-  <li>☑️ Graduando em Sistemas de Informação 7/8</li>
-  <li>☑️ AWS Certified Cloud Practitioner</li>
-</ul>
+<!-- <ul style="list-style-type: none; padding-left: 0; margin: 0;"> -->
+☑️ Engenheiro de Software @Itaú Unibanco
+☑️ 2 anos de experiência em desenvolvimento
+☑️ Graduando em Sistemas de Informação 7/8
+☑️ AWS Certified Cloud Practitioner
+<!-- </ul> -->
 
  
  ## Habilidades:
@@ -17,9 +17,7 @@
  </div>
  
  ## Contato:
- <div style="display: inline-block">
-   <ul>
-     <li><a href="https://www.linkedin.com/in/vitor-santos-alves/">LinkedIn</a></li>
-   </ul>
- </div>
+
+<a href="https://www.linkedin.com/in/vitor-santos-alves/">LinkedIn</a>
+
  
