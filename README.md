@@ -4,10 +4,10 @@
  ## Sobre mim:
 
 <!-- <ul style="list-style-type: none; padding-left: 0; margin: 0;"> -->
-☑️ Engenheiro de Software @Itaú Unibanco
-☑️ 2 anos de experiência em desenvolvimento
-☑️ Graduando em Sistemas de Informação 7/8
-☑️ AWS Certified Cloud Practitioner
+☑️ Engenheiro de Software @Itaú Unibanco <br>
+☑️ 2 anos de experiência em desenvolvimento <br>
+☑️ Graduando em Sistemas de Informação 7/8 <br>
+☑️ AWS Certified Cloud Practitioner <br>
 <!-- </ul> -->
 
  
