@@ -5,7 +5,7 @@
 
 <!-- <ul style="list-style-type: none; padding-left: 0; margin: 0;"> -->
 ☑️ Engenheiro de Software @Itaú Unibanco <br>
-☑️ 2 anos de experiência em desenvolvimento <br>
+☑️ 3 anos de experiência em desenvolvimento <br>
 ☑️ Bacharel em Sistemas de Informação pela FIAP <br>
 ☑️ AWS Certified Cloud Practitioner <br>
 <!-- </ul> -->
